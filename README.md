@@ -9,7 +9,7 @@ Permite entrenar el modelo, evaluarlo con métricas estándar, ajustar umbrales 
 ## 📌 Desarrollado por
 
 **Autor:** [Francisco González](https://www.linkedin.com/in/franciscogonzalez/)  
-**Especialización:** Ingeniería Industrial, análisis de datos, visión por computadora aplicada a control de calidad y apoyo clínico.
+**Especialización:** Ingeniería Industrial, análisis de datos, aseguramiento de calidad.
 
 ---
 
